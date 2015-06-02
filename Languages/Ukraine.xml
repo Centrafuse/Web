@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<APPLANG>
+  <WEB>
+    <HEADER>WEB БРАУЗЕР</HEADER>
+    <DISPLAYNAME>WEB</DISPLAYNAME>
+    <BACK>НАЗАД</BACK>
+    <FORWARD>ВПЕРЕД</FORWARD>
+    <STOP>СТОП</STOP>
+    <REFRESH>ОНОВИТИ</REFRESH>
+    <HOME>ДОДОМУ</HOME>
+    <FAVORITES>ОБРАНЕ</FAVORITES>
+    <KEYBOARD>КЛАВІАРУТА</KEYBOARD>
+    <ENTERURL>ВВЕДІТЬ АДРЕСУ</ENTERURL>
+    <ENTERTEXT>ВВЕДІТЬ ТЕКСТ</ENTERTEXT>
+    <MINMAX>МІН/МАКС</MINMAX>
+    <PAGEUP>СТОРІНКА ВГОРУ</PAGEUP>
+    <PAGEDOWN>СТОРІНКА ВНИЗ</PAGEDOWN>
+  </WEB>
+  <FAVORITES>
+    <PAGE>СТОРІНКА</PAGE>
+    <NOSELECT>НІЧОГО НЕ ОБРАНО</NOSELECT>
+    <HEADER>ОБРАНЕ</HEADER>
+    <PAGEUP>СТОРІНКА ВГОРУ</PAGEUP>
+    <PAGEDOWN>СТОРІНКА ВНИЗ</PAGEDOWN>
+    <BACK>НАЗАД</BACK>
+    <FORWARD>ВПЕРЕД</FORWARD>
+    <NEWFOLDER>НОВА ТЕКА</NEWFOLDER>
+    <REMOVE>ВИДАЛИТИ</REMOVE>
+    <ADDFAVORITE>ДОДАТИ В ОБРАНЕ</ADDFAVORITE>
+    <CLOSE>ЗАКРИТИ</CLOSE>
+    <LOAD>ЗАВАНТАЖИТИ</LOAD>
+    <SAVE>ВВЕДІТЬ НАЗВУ</SAVE>
+    <CREATENEWFOLDER>ВВЕДІТЬ ІМ'Я ТЕКИ</CREATENEWFOLDER>
+    <REMOVEDIR>ВИ ВПЕВНЕНІ, ЩО ХОЧЕТЕ ВИДАЛИТИ ЦЮ ТЕКУ</REMOVEDIR>
+    <REMOVEFAV>ВИ ВПЕВНЕНІ, ЩО ХОЧЕТЕ ВИДАЛИТИ ЦЕ ПОСИЛАННЯ?</REMOVEFAV>
+    <OVERWRITE>ПОСИЛАННЯ ВЖЕ ІСНУЄ, ПЕРЕЗАПИСАТИ?</OVERWRITE>
+  </FAVORITES>
+  <SETUP>
+    <DESCRIPTION>Display Name / Browser Settings / Font Size</DESCRIPTION>
+    <HEADER>WEB БРАУЗЕР</HEADER>
+    <ON>УВІМ</ON>
+    <OFF>ВИМ</OFF>
+    <SAVE>ЗБЕРЕГТИ</SAVE>
+    <CLOSE>ЗАКРИТИ</CLOSE>
+    <LABEL1>ІМ'Я ВІКНА</LABEL1>
+    <LABEL2>ДОМАШНЯ СТОРІНКА</LABEL2>
+    <LABEL3>РОЗМІР ШРИФТА</LABEL3>
+    <LABEL4>ПОВНОЕКРАННИЙ РЕЖИМ</LABEL4>
+    <LABEL5>АВТОЗ'ЄДНАННЯ</LABEL5>
+    <LABEL6>БЛОК. СПЛИВАЮЧИХ ВІКОН</LABEL6>
+    <BUTTON1TEXT>ВВЕДІТЬ ІМ'Я ВІКНА</BUTTON1TEXT>
+    <BUTTON2TEXT>ВВЕДІТЬ АДРЕСУ ДОМАШНЬОЇ СТОРІНКИ</BUTTON2TEXT>
+    <BUTTON3TEXT>ОБЕРІТЬ РОЗМІР ШРИФТА</BUTTON3TEXT>
+    <TEXTSIZES>РОЗМІРИ ШРИФТА</TEXTSIZES>
+    <OVERWRITETEXT>ЗБЕРЕГТИ ЗМІНИ?</OVERWRITETEXT>
+    <LARGEST>Максимальний</LARGEST>
+    <LARGER>Більший</LARGER>
+    <MEDIUM>Середній</MEDIUM>
+    <SMALLER>Менший</SMALLER>
+    <SMALLEST>Мінімальний</SMALLEST>
+    <WEBDISPLAY>WEB DISPLAY</WEBDISPLAY>
+    <AUTOHIDE>AUTO HIDE</AUTOHIDE>
+    <HOMEPAGE>HOMEPAGE</HOMEPAGE>
+    <HOMEPAGEBTN1>ЯРЛИК ДОМАШНЬОЇ СТОРІНКИ 1</HOMEPAGEBTN1>
+    <HOMEPAGEBTN1URL>АДРЕСА ДОМАШНЬОЇ СТОРІНКИ 1</HOMEPAGEBTN1URL>
+    <HOMEPAGEBTN2>ЯРЛИК ДОМАШНЬОЇ СТОРІНКИ 2</HOMEPAGEBTN2>
+    <HOMEPAGEBTN2URL>АДРЕСА ДОМАШНЬОЇ СТОРІНКИ 2</HOMEPAGEBTN2URL>
+    <HOMEPAGEBTN3>ЯРЛИК ДОМАШНЬОЇ СТОРІНКИ 3</HOMEPAGEBTN3>
+    <HOMEPAGEBTN3URL>АДРЕСА ДОМАШНЬОЇ СТОРІНКИ 3</HOMEPAGEBTN3URL>
+    <HOMEPAGEBTN4>ЯРЛИК ДОМАШНЬОЇ СТОРІНКИ 4</HOMEPAGEBTN4>
+    <HOMEPAGEBTN4URL>АДРЕСА ДОМАШНЬОЇ СТОРІНКИ 4</HOMEPAGEBTN4URL>
+    <HOMEPAGEBTN5>ЯРЛИК ДОМАШНЬОЇ СТОРІНКИ 5</HOMEPAGEBTN5>
+    <HOMEPAGEBTN5URL>АДРЕСА ДОМАШНЬОЇ СТОРІНКИ 5</HOMEPAGEBTN5URL>
+    <HOMEPAGEBTN6>ЯРЛИК ДОМАШНЬОЇ СТОРІНКИ 6</HOMEPAGEBTN6>
+    <HOMEPAGEBTN6URL>АДРЕСА ДОМАШНЬОЇ СТОРІНКИ 6</HOMEPAGEBTN6URL>
+  </SETUP>
+</APPLANG>

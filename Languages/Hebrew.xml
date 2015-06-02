@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<APPLANG>
+  <WEB>
+    <HEADER>דפדפן</HEADER>
+    <DISPLAYNAME>אינטרנט</DISPLAYNAME>
+    <BACK>אחורה</BACK>
+    <FORWARD>קדימה</FORWARD>
+    <STOP>עצור</STOP>
+    <REFRESH>רענן</REFRESH>
+    <HOME>בית</HOME>
+    <FAVORITES>מועדפים</FAVORITES>
+    <KEYBOARD>מקשים</KEYBOARD>
+    <ENTERURL>הכנס כתובת</ENTERURL>
+    <ENTERTEXT>הכנס טקסט</ENTERTEXT>
+    <MINMAX>הגדל/מזער</MINMAX>
+    <PAGEUP>דף למעלה</PAGEUP>
+    <PAGEDOWN>דף למטה</PAGEDOWN>
+  </WEB>
+  <FAVORITES>
+    <PAGE>דף</PAGE>
+    <NOSELECT>לא נבחר דבר</NOSELECT>
+    <HEADER>מועדפים</HEADER>
+    <PAGEUP>דף למעלה</PAGEUP>
+    <PAGEDOWN>דף למטה</PAGEDOWN>
+    <BACK>אחורה</BACK>
+    <FORWARD>קדימה</FORWARD>
+    <NEWFOLDER>תיקייה חדשה</NEWFOLDER>
+    <REMOVE>הסר</REMOVE>
+    <ADDFAVORITE>הוסף למועדפים</ADDFAVORITE>
+    <CLOSE>סגור</CLOSE>
+    <LOAD>טוען</LOAD>
+    <SAVE>הכנס שם</SAVE>
+    <CREATENEWFOLDER>הכנס שם תיקייה</CREATENEWFOLDER>
+    <REMOVEDIR>?האם אתה בטוח שברצונך למחוק את התיקייה</REMOVEDIR>
+    <REMOVEFAV>?האם אתה בטוח שברצונך למחוק את המועדף</REMOVEFAV>
+    <OVERWRITE>?מועדף כבר קיים, לכתוב על</OVERWRITE>
+  </FAVORITES>
+  <SETUP>
+    <DESCRIPTION>שם / הגדרות דפדפן / גודל גופן</DESCRIPTION>
+    <HEADER>דפדפן אינטרנט</HEADER>
+    <ON>פועל</ON>
+    <OFF>כבוי</OFF>
+    <SAVE>שמור</SAVE>
+    <CLOSE>סגור</CLOSE>
+    <LABEL1>שם תצוגה</LABEL1>
+    <LABEL2>דף הבית</LABEL2>
+    <LABEL3>גודל טקסט</LABEL3>
+    <LABEL4>מסך מלא</LABEL4>
+    <LABEL5>חיוג אוטומטי</LABEL5>
+    <LABEL6>חסום חלונות קופצים</LABEL6>
+    <BUTTON1TEXT>הכנס שם תצוגה</BUTTON1TEXT>
+    <BUTTON2TEXT>הכנס דף בית</BUTTON2TEXT>
+    <BUTTON3TEXT>בחר גודל טקסט</BUTTON3TEXT>
+    <TEXTSIZES>גדלי טקסט</TEXTSIZES>
+    <OVERWRITETEXT>?שמור על הגדרות קיימות</OVERWRITETEXT>
+    <LARGEST>הכי גדול</LARGEST>
+    <LARGER>גדול</LARGER>
+    <MEDIUM>בינוני</MEDIUM>
+    <SMALLER>קטן</SMALLER>
+    <SMALLEST>הכי קטן</SMALLEST>
+    <WEBDISPLAY>צג אינטרנט</WEBDISPLAY>
+    <AUTOHIDE>הסתר אוטומטית</AUTOHIDE>
+    <HOMEPAGE>עמוד הבית</HOMEPAGE>
+    <HOMEPAGEBTN1>כפתור דף בית 1 תווית</HOMEPAGEBTN1>
+    <HOMEPAGEBTN1URL>כפתור דף בית 1 כתובת</HOMEPAGEBTN1URL>
+    <HOMEPAGEBTN2>כפתור דף בית 2 תווית</HOMEPAGEBTN2>
+    <HOMEPAGEBTN2URL>כפתור דף בית 2 כתובת</HOMEPAGEBTN2URL>
+    <HOMEPAGEBTN3>כפתור דף בית 3 תווית</HOMEPAGEBTN3>
+    <HOMEPAGEBTN3URL>כפתור דף בית 3 כתובת</HOMEPAGEBTN3URL>
+    <HOMEPAGEBTN4>כפתור דף בית 4 תווית</HOMEPAGEBTN4>
+    <HOMEPAGEBTN4URL>כפתור דף בית 4 כתובת</HOMEPAGEBTN4URL>
+    <HOMEPAGEBTN5>כפתור דף בית 5 תווית</HOMEPAGEBTN5>
+    <HOMEPAGEBTN5URL>כפתור דף בית 5 כתובת</HOMEPAGEBTN5URL>
+    <HOMEPAGEBTN6>כפתור דף בית 6 תווית</HOMEPAGEBTN6>
+    <HOMEPAGEBTN6URL>כפתור דף בית 6 כתובת</HOMEPAGEBTN6URL>
+  </SETUP>
+</APPLANG>

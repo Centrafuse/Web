@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<APPLANG>
+  <WEB>
+    <HEADER>WEB БРАУЗЕР</HEADER>
+    <DISPLAYNAME>WEB</DISPLAYNAME>
+    <BACK>НАЗАД</BACK>
+    <FORWARD>ВПЕРЁД</FORWARD>
+    <STOP>СТОП</STOP>
+    <REFRESH>ОБНОВИТЬ</REFRESH>
+    <HOME>ДОМОЙ</HOME>
+    <FAVORITES>ИЗБРАННОЕ</FAVORITES>
+    <KEYBOARD>КЛАВИАРУТА</KEYBOARD>
+    <ENTERURL>ВВЕДИТЕ АДРЕС</ENTERURL>
+    <ENTERTEXT>ВВЕДИТЕ ТЕКСТ</ENTERTEXT>
+    <MINMAX>МИН/МАКС</MINMAX>
+    <PAGEUP>СТРАНИЦА ВВЕРХ</PAGEUP>
+    <PAGEDOWN>СТРАНИЦА ВНИЗ</PAGEDOWN>
+  </WEB>
+  <FAVORITES>
+    <PAGE>СТРАНИЦА</PAGE>
+    <NOSELECT>НИЧЕГО НЕ ВЫБРАНО</NOSELECT>
+    <HEADER>ИЗБРАННОЕ</HEADER>
+    <PAGEUP>СТРАНИЦА ВВЕРХ</PAGEUP>
+    <PAGEDOWN>СТРАНИЦА ВНИЗ</PAGEDOWN>
+    <BACK>НАЗАД</BACK>
+    <FORWARD>ВПЕРЁД</FORWARD>
+    <NEWFOLDER>НОВАЯ ПАПКА</NEWFOLDER>
+    <REMOVE>УДАЛИТЬ</REMOVE>
+    <ADDFAVORITE>ДОБАВИТЬ В ИЗБРАННОЕ</ADDFAVORITE>
+    <CLOSE>ЗАКРЫТЬ</CLOSE>
+    <LOAD>ЗАГРУЗИТЬ</LOAD>
+    <SAVE>ВВЕДИТЕ НАЗВАНИЕ</SAVE>
+    <CREATENEWFOLDER>ВВЕДИТЕ ИМЯ ПАПКИ</CREATENEWFOLDER>
+    <REMOVEDIR>ВЫ УВЕРЕНЫ, ЧТО ХОТИТЕ УДАЛИТЬ ЭТУ ПАПКУ</REMOVEDIR>
+    <REMOVEFAV>ВЫ УВЕРЕНЫ, ЧТО ХОТИТЕ УДАЛИТЬ ЭТУ ССЫЛКУ?</REMOVEFAV>
+    <OVERWRITE>ССЫЛКА УЖЕ СУЩЕСТВУЕТ, ПЕРЕЗАПИСАТЬ?</OVERWRITE>
+  </FAVORITES>
+  <SETUP>
+    <DESCRIPTION>Имя Окна / Настройки Браузера / Размер Шрифта</DESCRIPTION>
+    <HEADER>WEB БРАУЗЕР</HEADER>
+    <ON>ВКЛ</ON>
+    <OFF>ВЫКЛ</OFF>
+    <SAVE>СОХРАНИТЬ</SAVE>
+    <CLOSE>ЗАКРЫТЬ</CLOSE>
+    <LABEL1>ИМЯ ОКНА</LABEL1>
+    <LABEL2>ДОМАШНЯЯ СТРАНИЦА</LABEL2>
+    <LABEL3>РАЗМЕР ШРИФТА</LABEL3>
+    <LABEL4>ПОЛНОЭКРАННЫЙ РЕЖИМ</LABEL4>
+    <LABEL5>АВТОСОЕДИНЕНИЕ</LABEL5>
+    <LABEL6>БЛОК. ВСПЛЫВАЮЩИХ ОКОН</LABEL6>
+    <BUTTON1TEXT>ВВЕДИТЕ ИМЯ ОКНА</BUTTON1TEXT>
+    <BUTTON2TEXT>ВВЕДИТЕ АДРЕСС ДОМАШНЕЙ СТРАНИЦЫ</BUTTON2TEXT>
+    <BUTTON3TEXT>ВЫБИРИТЕ РАЗМЕР ШРИФТА</BUTTON3TEXT>
+    <TEXTSIZES>РАЗМЕРЫ ШРИФТА</TEXTSIZES>
+    <OVERWRITETEXT>СОХРАНИТЬ ИЗМЕНЕНИЯ?</OVERWRITETEXT>
+    <LARGEST>Максимальный</LARGEST>
+    <LARGER>Больше</LARGER>
+    <MEDIUM>Средний</MEDIUM>
+    <SMALLER>Меньше</SMALLER>
+    <SMALLEST>Минимальный</SMALLEST>
+    <WEBDISPLAY>WEB DISPLAY</WEBDISPLAY>
+    <AUTOHIDE>AUTO HIDE</AUTOHIDE>
+    <HOMEPAGE>ГЛАВНАЯ СТРАНИЦА</HOMEPAGE>
+    <HOMEPAGEBTN1>ЯРЛЫК ДОМАШНЕЙ СТРАНИЦЫ 1</HOMEPAGEBTN1>
+    <HOMEPAGEBTN1URL>АДРЕС ДОМАШНЕЙ СТРАНИЦЫ 1</HOMEPAGEBTN1URL>
+    <HOMEPAGEBTN2>ЯРЛЫК ДОМАШНЕЙ СТРАНИЦЫ 2</HOMEPAGEBTN2>
+    <HOMEPAGEBTN2URL>АДРЕС ДОМАШНЕЙ СТРАНИЦЫ 2</HOMEPAGEBTN2URL>
+    <HOMEPAGEBTN3>ЯРЛЫК ДОМАШНЕЙ СТРАНИЦЫ 3</HOMEPAGEBTN3>
+    <HOMEPAGEBTN3URL>АДРЕС ДОМАШНЕЙ СТРАНИЦЫ 3</HOMEPAGEBTN3URL>
+    <HOMEPAGEBTN4>ЯРЛЫК ДОМАШНЕЙ СТРАНИЦЫ 4</HOMEPAGEBTN4>
+    <HOMEPAGEBTN4URL>АДРЕС ДОМАШНЕЙ СТРАНИЦЫ 4</HOMEPAGEBTN4URL>
+    <HOMEPAGEBTN5>ЯРЛЫК ДОМАШНЕЙ СТРАНИЦЫ 5</HOMEPAGEBTN5>
+    <HOMEPAGEBTN5URL>АДРЕС ДОМАШНЕЙ СТРАНИЦЫ 5</HOMEPAGEBTN5URL>
+    <HOMEPAGEBTN6>ЯРЛЫК ДОМАШНЕЙ СТРАНИЦЫ 6</HOMEPAGEBTN6>
+    <HOMEPAGEBTN6URL>АДРЕС ДОМАШНЕЙ СТРАНИЦЫ 6</HOMEPAGEBTN6URL>
+  </SETUP>
+</APPLANG>

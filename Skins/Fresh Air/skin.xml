@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SKIN id="Fresh Air" width="800" height="480" comment="Web Plugin">
+  <IMAGES>
+    <IMAGE id="WebOff" path="web_off.png" />
+    <IMAGE id="WebDown" path="web_down.png" />
+    <IMAGE id="FavoritesOff" path="favorites_off.png" />
+    <IMAGE id="FavoritesDown" path="favorites_down.png" />
+  </IMAGES>
+  <SECTIONS>
+    <SECTION id="Web" effect="ToApp" bounds="0;0;800;480" fullbounds="0;0;800;480" secbounds="0;0;800;480" off="WebOff" down="WebDown">
+      <CONTROLS>
+        <CONTROL type="Button" id="Keyboard" bounds="592;6;94;55" effect="" fontclass="Button20" text="AppLang.Web.Keyboard" tabindex="3" enabled="True" />
+        <CONTROL type="Button" id="Back" bounds="23;6;94;55" effect="" fontclass="Button20" text="AppLang.Web.Back" tabindex="4" enabled="True" />
+        <CONTROL type="Button" id="Forward" bounds="117;6;94;55" effect="" fontclass="Button20" text="AppLang.Web.Forward" tabindex="5" enabled="True" />
+        <CONTROL type="Button" id="Stop" bounds="222;6;88;55" effect="" fontclass="Button20" text="AppLang.Web.Stop" tabindex="6" enabled="True" />
+        <CONTROL type="Button" id="Refresh" bounds="310;6;94;55" effect="" fontclass="Button20" text="AppLang.Web.Refresh" tabindex="7" enabled="True" />
+        <CONTROL type="Button" id="Home" bounds="404;6;94;55" effect="" fontclass="Button20" text="AppLang.Web.Home" tabindex="8" enabled="True" />
+        <CONTROL type="Button" id="Favorites" bounds="498;6;94;55" effect="" fontclass="Button20" text="AppLang.Web.Favorites" tabindex="9" enabled="True" />
+        <CONTROL type="Button" id="MainScreen" bounds="686;6;97;55" effect="" fontclass="Button20" cmlaction="Centrafuse.CFActions.ExtAppClose" text="" tabindex="10" enabled="True" />
+        <CONTROL type="Button" id="URL" bounds="30;68;689;39" effect="" fontclass="Standard16" fontstyle="color:#000A17;align:left;style:bold;case:lower" textenable="true" tabindex="11" enabled="True" />
+        <CONTROL type="Button" id="Unload" bounds="726;63;57;49" effect="" fontclass="Standard16" tabindex="11" enabled="True" />
+        <CONTROL type="Panel" id="IEContainer" bounds="8;119;784;196" fullbounds="5;118;790;357" secbounds="5;118;790;357" enabled="True" autoload="false" />
+      </CONTROLS>
+    </SECTION>
+  </SECTIONS>
+  <DIALOGS>
+    <DIALOG id="Favorites" effect="ToApp" bounds="0;0;800;480" off="FavoritesOff" down="FavoritesDown">
+      <CONTROLS>
+        <CONTROL type="Label" id="ListHeader" bounds="141;5;470;43" fontclass="Standard20" fontstyle="align:left;style:bold" />
+        <CONTROL type="Label" id="ListCount" bounds="463;51;250;25" cmlaction="" fontclass="MediaManagerLabel" fontstyle="size:18;style:bold;align:right" />
+        <CONTROL type="Button" id="AddFavorite" bounds="22;86;108;94" effect="" fontclass="Standard14" textenable="false" text="" tabindex="5" enabled="true" off="AddOff" down="AddDown" />
+        <CONTROL type="Button" id="Remove" bounds="22;192;108;94" effect="" fontclass="Standard14" textenable="false" text="" tabindex="6" enabled="true" off="RemoveOff" down="RemoveDown" />
+        <CONTROL type="Button" id="PageUp" bounds="728;85;64;154" effect="" fontclass="Standard12" text="AppLang.Favorites.PageUp" tabindex="3" enabled="true" />
+        <CONTROL type="Button" id="PageDown" bounds="728;239;65;155" effect="" fontclass="Standard12" text="AppLang.Favorites.PageDown" tabindex="4" enabled="true" />
+        <CONTROL type="Button" id="Back" bounds="30;405;119;61" effect="" fontclass="Standard12" text="AppLang.Favorites.Back" tabindex="5" enabled="true" />
+        <CONTROL type="Button" id="NewFolder" bounds="22;298;108;94" effect="" fontclass="Button20" text="AppLang.Favorites.NewFolder" tabindex="6" enabled="true" off="NewFolder" down="NewFolderDown" />
+        <CONTROL type="Button" id="Load" bounds="154;405;116;61" effect="" fontclass="Button20" textenable="True" text="AppLang.Favorites.Load" tabindex="7" enabled="true" off="blankoff" down="blankdown" />
+        <CONTROL type="Button" id="Close" bounds="651;404;119;62" effect="" fontclass="Button20" text="AppLang.Favorites.Close" tabindex="8" enabled="true" />
+        <CONTROL type="ListView" id="MainPanel" bounds="141;90;586;300" fontclass="Standard20" fontstyle="color:#F0F8FF" rowheight="60" hlcolor="#eed773" selfontcolor="#000A17" artfontclass="ListViewArt" artwidth="24" artheight="27" artspacer="1">
+          <LISTIMAGE iconimage="FolderArrow" />
+        </CONTROL>
+      </CONTROLS>
+    </DIALOG>
+  </DIALOGS>
+</SKIN>
